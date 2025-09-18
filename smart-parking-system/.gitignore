@@ -1,0 +1,24 @@
+# Build outputs
+bin/
+obj/
+*.user
+*.suo 
+*.userosscache
+*.sln.docstates
+
+# Visual Studio files
+.vs/
+.vscode/
+
+# JetBrains IDEs
+.idea/
+
+# OS files
+.DS_Store 
+Thumbs.db
+
+# Documentation files (if you don't want them)
+*.docx
+
+# Logs
+*.log
